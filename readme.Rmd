@@ -1,0 +1,18 @@
+---
+title: "BMI and BMR calculator"
+author: "Nidhi Mavani"
+date: "Friday, January 23, 2015"
+output: html_document
+---
+######User guide for the BMI and BMR calculator
+
+1. You need to know your <b>Height</b>, <b>Weight</b> ,<b>Age</b> and <b>Gender</b> inorder for this app to give results to you.     
+2. Weight has to be in <b>Kgs</b> and Height has to be in <b>cms</b>  
+3. Age in <b>years</b>
+4. BMI is the <b>Body Mass Index</b> and BMR is <b>Basal Metabolic Rate</b>
+
+
+Note: Calculate button is for first time use only
+
+
+
